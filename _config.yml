@@ -1,0 +1,4 @@
+name: Irena Chen
+markdown: kramdown
+theme: minima
+permalink: /blog/:year/:month/:day/:title
